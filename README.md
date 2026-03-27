@@ -1,4 +1,4 @@
-[![Read on Medium](https://img.shields.io/badge/Read%20on-Medium-00ab6c?logo=medium&logoColor=white)]()
+[![Read on Medium](https://img.shields.io/badge/Read%20on-Medium-00ab6c?logo=medium&logoColor=white)](https://medium.com/@Zedocun/suspicious-mx-record-to-confirmed-phishing-attack-69ec85471526)
 
 # SOC326 Investigation - Impersonating Domain MX Record Change Detected
 
